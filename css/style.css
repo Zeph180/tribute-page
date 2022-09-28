@@ -1,14 +1,18 @@
 #title {
-    font-size : 300%;
+    font-size : default;
     width: 40 vmax;
 }
 .centre {
     text-align: centre;
-    margin: auto
-    padding: auto
+    margin: auto;
+    padding: auto;
 
 }
 body {
     background-color: gray
+
+}
+#image {
+    height: auto;
     
 }

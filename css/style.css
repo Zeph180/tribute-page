@@ -14,5 +14,7 @@ body {
 }
 #image {
     height: auto;
-    
+    max-width: 60%;
+    display: block;
+
 }
